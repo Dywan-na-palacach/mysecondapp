@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192375862168",
+    "project_id": "mobile-comm",
+    "storage_bucket": "mobile-comm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192375862168:android:7447a69e193add53c871ed",
+        "android_client_info": {
+          "package_name": "com.mysecondapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXaPR3AqiL5_lv-aoQowb0_EL9hoAcfLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
